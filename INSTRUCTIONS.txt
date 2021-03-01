@@ -1,0 +1,9 @@
+Blueshift disk packer - Instructions
+
+To set up and use a project environment, just create a new folder, with a copy
+of this .JAR file as the "Makefile".
+
+The folder should also contain one .EXA file as the source code for each EXA.
+
+To pack a new disk, call this .JAR in the terminal, with the project name as
+the only argument.
