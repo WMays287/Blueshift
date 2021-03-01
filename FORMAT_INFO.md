@@ -1,3 +1,5 @@
+### Copied from [Rami Sabbagh's disk specs](https://github.com/Rami-Sabbagh/TEC-Redshift-Disk-Specification)
+
 # TEC Redshift Disk Specification (Revision 001)
 A specification of the TEC Redshift exported images format in the [EXAPUNKS](http://www.zachtronics.com/exapunks) game by [Zachtronics](https://www.zachtronics.com/).
 
